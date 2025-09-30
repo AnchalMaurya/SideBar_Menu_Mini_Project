@@ -16,7 +16,9 @@ It features a smooth sliding effect, hover animations, and social media links.
 ## 📷 Preview  
   
 
-![Preview](photo.jpg)  
+![pic1](https://github.com/AnchalMaurya/SideBar_Menu_Mini_Project/blob/main/Screenshot%202025-09-30%20114858.png) 
+
+![pic2](https://github.com/AnchalMaurya/SideBar_Menu_Mini_Project/blob/main/Screenshot%202025-09-30%20114921.png)
 
 
 ## 🛠️ Technologies Used 
@@ -42,22 +44,13 @@ It features a smooth sliding effect, hover animations, and social media links.
 
 1. **Clone the repository**  
 
-   git clone https://github.com/your-username/mini-project-sidebar.git
-Open the project folder
+   git clone https://github.com/AnchalMaurya/mini-project-sidebar.git
+   Open the project folder
 
-cd mini-project-sidebar
-Run the project
+      cd mini-project-sidebar
+      Run the project
 
-Simply open index.html in your browser.
-
-## ✨ Customization
-
-Change the background by replacing photo.jpg.
-
-Update the menu items in index.html.
-
-Modify colors, fonts, and styles in style.css.
-
+  Simply open index.html in your browser.
 
 
 ## Author & 📞 Contact
